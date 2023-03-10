@@ -55,7 +55,7 @@
                 </tr>
                 <tr>
                     <th>이름</th>
-                    <td><input type="text" name="MEMBER_NAME" id="MEMBER_NAME" value="${member.MEMBER_NAME}"></td>
+                    <td><input type="text" name="MEMBER_NAME" id="MEMBER_NAME" value="${member.MEMBER_NAME}" disabled></td>
                 </tr>
                 <tr>
                     <th>이메일</th>
