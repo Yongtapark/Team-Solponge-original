@@ -2,15 +2,10 @@
 
 ### 사전 요구 사항
 도서, 공고 Data
-
 Java 11
-
 JSP
-
 JQUERY
-
 MYBATIS
-
 ORACLE DB
 
 
