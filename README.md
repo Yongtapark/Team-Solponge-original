@@ -8,11 +8,12 @@ JQUERY
 MYBATIS
 ORACLE DB
 
-### 설치
-
 
 ## 화면
-![1](https://user-images.githubusercontent.com/91367204/231716537-9b9a48f6-124f-4bb0-8065-53dbba8256dc.png)
-![2](https://user-images.githubusercontent.com/91367204/231716606-1c546745-7b98-45ed-abd1-306abb5e5ae3.png)
-![3](https://user-images.githubusercontent.com/91367204/231716617-0206fdfd-7456-4d9d-b1c4-730b3ff7f87e.png)
-![4](https://user-images.githubusercontent.com/91367204/231716624-55b6113f-9d39-4c23-b9fa-9e3a7e1edb27.png)
+1. 메인화면
+![Honeycam 2023-04-17 20-43-40](https://user-images.githubusercontent.com/91367204/232476736-36e55129-f3ad-4416-9139-7b56a9b06c87.gif)
+2. 관리자 화면
+![Honeycam 2023-04-17 20-49-53](https://user-images.githubusercontent.com/91367204/232476786-d8655305-517c-404f-b1ae-3a30d5de3775.gif)
+3. 결제 화면 
+![Honeycam 2023-04-17 20-50-43](https://user-images.githubusercontent.com/91367204/232476835-17ad8d16-a8a3-4544-bffb-b1fd4b4bc333.gif)
+
