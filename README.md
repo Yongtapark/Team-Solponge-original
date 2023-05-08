@@ -32,6 +32,7 @@ ORACLE DB
 비회원, 회원, 관리자 세션 로그인
 
 잘못된 접근 -> 로그인 페이지로 이동
+![Honeycam 2023-05-08 11-02-46](https://user-images.githubusercontent.com/91367204/236717797-7f36c376-de05-4ae9-9153-c980ff504179.gif)
 
 #### 관리자
 상품관리, 주문관리, 회원관리
