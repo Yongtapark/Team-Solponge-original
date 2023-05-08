@@ -12,6 +12,13 @@ MYBATIS
 
 ORACLE DB
 
+### 테이블 관계도
+![캡처](https://user-images.githubusercontent.com/91367204/236714087-4d1406eb-f2c0-4d46-99f3-3a73da9cc3e9.PNG)
+
+### Use Case
+![usecase](https://user-images.githubusercontent.com/91367204/236714190-d4fd05a0-274c-4127-a01c-ac42567a4611.PNG)
+
+
 ### 구현 기능
 
 #### 상품
